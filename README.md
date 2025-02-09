@@ -23,11 +23,15 @@ A continuación, puedes ver cómo luce tu proyecto final.
 En este proyecto, podrás practicar y mejorar en áreas como:
 
 - **Maquetación semántica:** Crear una estructura HTML clara y accesible.
-- **CSS básico** Aprende a usar algunas de las propiedades más comunes.
+- **CSS** Utiliza flexbox, grid y pseudo-clases para diseñar interfaces más dinámicas y adaptables.
+
+- **JavaScript** Maneja eventos, manipula el DOM y trabaja con datos en tiempo real para mejorar la experiencia del usuario.
+
+- **Buenas prácticas en desarrollo**: Organiza tu código de manera estructurada y aprende a escribir funciones reutilizables y eficientes.
 
 Reflexiona sobre lo aprendido al completar el proyecto y anótalo aquí. Ejemplo:
 
-> _"Aprendí a usar...
+> \_"Aprendí a usar...
 
 ---
 
@@ -35,6 +39,7 @@ Reflexiona sobre lo aprendido al completar el proyecto y anótalo aquí. Ejemplo
 
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
